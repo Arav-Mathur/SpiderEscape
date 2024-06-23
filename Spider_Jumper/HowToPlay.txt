@@ -1,0 +1,10 @@
+Welcome to Miles Morales Jumper!
+
+How to play the game:
+You are running away from Spiderman 2099
+and need to get back home.
+Run and jump as far as possible before getting caught.
+You have 30 seconds. 
+To run, press D.
+To jump press SPACE.
+To climb buildings, press W.
