@@ -1,0 +1,14 @@
+Welcome to Spider Escape!
+
+How to play the game:
+You are running away from Spiderman 2099 and his Spiderman army!
+You need to evade them by swinging around. You can also shoot a web to trap them in place and stop their advance!
+You are allowed to touch the spidermen 3 times (Called Close Encounters).
+Make sure not to fall too!
+To swing, left-click on the screen.
+To shoot a web, right-click in the direction of the shot.
+
+Modes:
+Survival: Lets see how long you can last trying to evade all the bots!
+Shooter: Lets see how many Spidermen can you trap!
+Free Play: Have fun and play with all setting on with no time limit!
